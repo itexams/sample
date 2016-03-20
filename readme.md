@@ -7,20 +7,35 @@ Syntax of test.yml file :
 
 
   name: "Sample tests"
+
   slug: "sample"
+
   description: "This is a sample test with lot of questions"
+
   duration : 10
+
   number_questions: 5
+
   actif: yes
+
   categories :
+
     - name : "Category 1"
+
       dir : "cat1"
+
       number_questions : 2
+
     - name : "Category 2"
+
       dir : "cat1"
+
       number_questions : 2
+
     - name : "Category 3"
+
       dir : "cat3"
+
       number_questions : 2
 
 
