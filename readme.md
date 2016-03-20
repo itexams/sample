@@ -26,12 +26,12 @@ Syntax of test.yml file :
 
 Structure of dire :
 ---------------------------
-   - sample
-      -  questions
-          -  <user_name>_<id>
-               - answers
-                   - <id>_<bool>.txt
-                - question.txt
+   * sample
+      *  questions
+          *  <user_name>_<id>
+               * answers
+                   * <id>_<bool>.txt
+                * question.txt
 
 Tokens :
 - <user_name> Your github username account
