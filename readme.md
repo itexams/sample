@@ -24,14 +24,14 @@ Syntax of test.yml file :
       number_questions : 2
 
 
-Structure of dire :
+Structure of dirs :
 ---------------------------
-   * sample
-      *  questions
-          *  <user_name>_<id>
-               * answers
-                   * <id>_<bool>.txt
-                * question.txt
+    sample
+        questions
+            <user_name>_<id>
+                answers
+                    <id>_<bool>.txt
+                 question.txt
 
 Tokens :
 - <user_name> Your github username account
