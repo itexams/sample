@@ -3,7 +3,7 @@ slug: "sample"
 description: "This is a sample test with lot of questions"
 duration : 10
 number_questions: 5
-actif: yes
+actif: no
 categories :
   - name : "Category 1"
     dir : "cat1"
