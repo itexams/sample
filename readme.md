@@ -28,7 +28,7 @@ Syntax of test.yml file :
 
     - name : "Category 2"
 
-      dir : "cat1"
+      dir : "cat2"
 
       number_questions : 2
 
@@ -49,6 +49,6 @@ Structure of dirs :
                  question.txt
 
 Tokens :
-- <user_name> Your github username account
-- <id>  numerical id starting by 1 and incremeted by 1
+- <user_name> your github username account
+- <id> numerical id starting by 1 and incremented by 1
 - <bool> true if the answer is a correct response or false

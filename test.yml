@@ -9,7 +9,7 @@ categories :
     dir : "cat1"
     number_questions : 2
   - name : "Category 2"
-    dir : "cat1"
+    dir : "cat2"
     number_questions : 2
   - name : "Category 3"
     dir : "cat3"
